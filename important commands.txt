@@ -1,0 +1,9 @@
+-installing bootstrap
+npm install bootstrap@3
+-require jquery to run
+npm install jquery
+
+
+-create new component
+ng g c component-name
+
